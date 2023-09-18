@@ -1,4 +1,4 @@
-package tasks.desafios02.foreach;
+package tasks.desafios03.foreach;
 
 public class Series extends Title{
     public Series(String name, int release) {

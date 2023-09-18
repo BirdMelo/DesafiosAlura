@@ -1,4 +1,4 @@
-package tasks.desafios02.compareble;
+package tasks.desafios03.compareble;
 
 public class Person implements Comparable<Person>{
     //Variables:
